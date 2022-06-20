@@ -48,5 +48,4 @@ Acrividad 3 y 4
                printf("La multiplicacion da %i\n",multi);
                resta=numeroa-numerob;
                printf("La resta es igual a %i\n",resta);
-
             }
